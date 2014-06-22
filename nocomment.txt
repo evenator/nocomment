@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ###conversations-huffpost-web
 ###disqus_thread
 ##.pb-f-page-comments

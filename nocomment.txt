@@ -1,21 +1,35 @@
 [Adblock Plus 2.0]
-! Checksum: J17hhNR0eQ+HEKsJDDq9yQ
+! Checksum: RAPFIp2EsHXxMOt0yrVnuQ
 ! Version 1
 ! Expires: 1 days
 
-! Youtube
-www.youtube.com###watch-discussion
+! Blogspot
+blogspot.com###comments
+
+! Buzzfeed
+www.buzzfeed.com###f3ac468a44
+www.buzzfeed.com##.fb_ltr
+buzzfeed.com###fb_comments_control
+
+! Cracked
+cracked.com###Comments
 
 ! Disqus
 ###disqus_thread
 http://disqus.com/embed/comments/
 
-! LinkedIn
-linkedin.com###article-activity
+! Gawker Network
+gawker.com##section.js_replies
+gizmodo.com##section.js_replies
+jezebel.com##section.js_replies
 
-! Buzzfeed
-www.buzzfeed.com###f3ac468a44
-www.buzzfeed.com##.fb_ltr
+! Go Comics
+gocomics.com##.comment-panel-container
+
+! Huffington Post
+###huffpost-web-fb-comments
+###post-comments-area
+###rtb-comments
 
 ! Independent
 www.independent.co.uk###commentReference
@@ -23,7 +37,47 @@ www.independent.co.uk##.commentAside
 www.independent.co.uk##.comments
 www.independent.co.uk##.voicesSingleComment
 
+! LinkedIn
+linkedin.com###article-activity
+linkedin.com##.article-comments
+
 ! NyTimes
 www.nytimes.com##.comments-marginalia
 www.nytimes.com##.marginalia
 www.nytimes.com##.selected-comment-marginalia
+nytimes.com###commentsContainer
+
+! Salon
+##.salon-partner-widget
+www.salon.com###zerglayout
+www.salon.com##.zerglayoutcl
+
+! Uproxx
+uproxx.com###comments
+
+! Vox
+###vox-comments
+##.fb_ltr
+##.fyre
+##.idc-comments
+
+! Youtube
+www.youtube.com###watch-discussion
+
+! Zergnet
+##.zergnet-widget
+
+! Other
+###BlogComments
+###IDCommentsHead
+###IDCommentsNewThreadCover
+###comments-activity
+business2community.com###comments
+moviepilot.com##.p-a-conversations
+www.businessinsider.com###comments-open
+www.businessinsider.com##.comments
+www.greenvillegazette.com###respond
+www.greenvillegazette.com##.ad.mpu-ad-top
+www.greenvillegazette.com##.comment-respond
+www.scientificamerican.com##.article-comments
+www.theguardian.com###comments

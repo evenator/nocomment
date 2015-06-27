@@ -1,15 +1,24 @@
 [Adblock Plus 2.0]
-! Checksum: RAPFIp2EsHXxMOt0yrVnuQ
+! Checksum: uwsPjrk+N8uXohxLhPWTMg
 ! Version 1
 ! Expires: 1 days
 
 ! Blogspot
 blogspot.com###comments
 
+! Bloomberg
+bloomberg.com##.content-type-recirc
+
+! Boingboing
+boingboing.net###comments-container
+
 ! Buzzfeed
 www.buzzfeed.com###f3ac468a44
 www.buzzfeed.com##.fb_ltr
 buzzfeed.com###fb_comments_control
+
+! CBC
+cbc.ca###commentwrapper
 
 ! Cracked
 cracked.com###Comments
@@ -18,10 +27,16 @@ cracked.com###Comments
 ###disqus_thread
 http://disqus.com/embed/comments/
 
+! Esquire
+esquire.com##.comments
+
 ! Gawker Network
 gawker.com##section.js_replies
 gizmodo.com##section.js_replies
 jezebel.com##section.js_replies
+gawker.com###js_discussion-region
+gizmodo.com###js_discussion-region
+jezebel.com###js_discussion-region
 
 ! Go Comics
 gocomics.com##.comment-panel-container
@@ -30,6 +45,9 @@ gocomics.com##.comment-panel-container
 ###huffpost-web-fb-comments
 ###post-comments-area
 ###rtb-comments
+
+! Imgur
+imgur.com###comments-container
 
 ! Independent
 www.independent.co.uk###commentReference
@@ -41,16 +59,29 @@ www.independent.co.uk##.voicesSingleComment
 linkedin.com###article-activity
 linkedin.com##.article-comments
 
+! Newsweek
+newsweek.com###discussion
+
 ! NyTimes
 www.nytimes.com##.comments-marginalia
 www.nytimes.com##.marginalia
 www.nytimes.com##.selected-comment-marginalia
 nytimes.com###commentsContainer
 
+! Paper Magazine
+papermag.com##.fb-comments
+papermag.com##.post-bottom-section
+
+! Popular Mechanics
+popularmechanics.com##div.gallery-comments
+
 ! Salon
 ##.salon-partner-widget
 www.salon.com###zerglayout
 www.salon.com##.zerglayoutcl
+
+! Talking Points Memo
+talkingpointsmemo.com##aside#comments
 
 ! Uproxx
 uproxx.com###comments
@@ -60,6 +91,9 @@ uproxx.com###comments
 ##.fb_ltr
 ##.fyre
 ##.idc-comments
+
+! Washington Post
+washingtonpost.com##.pb-f-page-comments
 
 ! Youtube
 www.youtube.com###watch-discussion
